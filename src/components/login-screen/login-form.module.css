@@ -1,0 +1,26 @@
+.container {
+	padding-top: 200px;
+}
+
+.loginButton {
+	background-color: dodgerblue;
+	font-weight: 600;
+	color: aliceblue;
+}
+
+.innerContainer {
+	border-radius: 10px;
+	background-color: whitesmoke;
+	padding: 30px;
+}
+
+.loginText {
+	text-align: center;
+	font-weight: bolder;
+	color: darkslategray;
+	text-transform: uppercase;
+}
+
+.errorText {
+	color: red;
+}
