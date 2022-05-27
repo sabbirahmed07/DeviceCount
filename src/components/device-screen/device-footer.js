@@ -15,7 +15,7 @@ function DeviceFooter() {
 		const notifyData = {
 			name: 'Sabbir Ahmed Sristy',
 			email: 'sabbirsristy@gmail.com',
-			repoUrl: 'https://github.com/sabbirahmed07/deviceCount.git',
+			repoUrl: 'https://github.com/sabbirahmed07/DeviceCount.git',
 			message:
 				'I have tried to implement whatever you have asked in the task. Hopefully you will like it.',
 		};
